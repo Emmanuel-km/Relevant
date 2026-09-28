@@ -34,10 +34,6 @@ organized relevant folders
 
 ---
 
-## Interface
-
-![Tool screenshot](https://simple-encryption-decription-tool.onrender.com/static/screenshot.png)
-
 ---
 
 ## Tech stack
