@@ -1,5 +1,5 @@
 # Projects
-organized relevant folders
+organized important projects
 
 
 <hr>
